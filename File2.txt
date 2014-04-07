@@ -3,5 +3,3 @@ This is file 2
 This is some really useful text that you will probably never use!
 
 Another Awesome change to file 2
-
-Brian's change
